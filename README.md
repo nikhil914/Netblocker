@@ -1,5 +1,3 @@
-Here is a professional, ready-to-use README.md file for your GitHub repository. It includes all the features we discussed, technical details, and the specific usage instruction you requested.
-
 🛡️ NetShield - Android Firewall & Internet Blocker
 NetShield is a modern, open-source Android firewall that gives you complete control over which applications can access the internet. Built with Jetpack Compose and Clean Architecture, it uses Android's native VpnService to block traffic without requiring ROOT access.
 
