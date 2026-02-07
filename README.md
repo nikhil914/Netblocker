@@ -66,7 +66,7 @@ Clone the repository:
 
 Bash
 
-git clone https://github.com/yourusername/netshield.git
+git clone
 Open in Android Studio:
 
 Requires Android Studio Koala or newer.
